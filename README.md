@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rockycrhodes
-- 👀 I’m interested in data science and data analysis projects, particularly those involving python, R, and/or javascript APIs. 
-- 🌱 I’m currently learning python, R.
-- 💞️ I’m looking to collaborate on data science and data journalism projects, especially in the area of digital marketing and digital publishing. 
+- 👀 I’m interested in data science project to practice python development, time series analysis, machine learning techniques and more! 
+- 🌱 I’m currently practicing machine learning techniques.
+- 💞️ I’m looking to collaborate on data science and data journalism projects. 
 - 📫 How to reach me: Email at rockycrhodes@gmail.com.
 
 <!---
